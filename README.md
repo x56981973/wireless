@@ -1,2 +1,2 @@
 # wireless
-wireless attack platform based on Ubuntu
+wireless attack platform based on Ubuntu 14.04 LTS
